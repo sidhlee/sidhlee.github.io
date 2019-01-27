@@ -1,0 +1,23 @@
+body {
+    font-family: monospace;
+    text-align: center;
+}
+
+#main {
+    display: block;
+    margin: auto;
+    max-width: 50vw;
+}
+
+ul {
+    text-decoration: none;
+    list-style: none;
+    margin-left:0;
+    text-align: center;
+}
+
+li {
+    display: block;
+    position: relative;
+    right: 25px;
+}

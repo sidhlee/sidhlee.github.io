@@ -37,3 +37,6 @@ table, th, td {
     border-collapse: collapse;
     padding: 10px;
 }
+
+td { line-height: 1.25; }
+    

@@ -35,6 +35,10 @@ li {
     .table { width: 500px; }
 }
 
+@media (max-width: 500px) {
+    .table { width: 85%; }
+}
+
 table { width: 100%; }
 
 table, th, td {

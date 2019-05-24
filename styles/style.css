@@ -1,6 +1,7 @@
 body {
     font-family: monospace;
     text-align: center;
+    line-height: 1.25em;
 }
 
 #main {
@@ -21,6 +22,8 @@ li {
     position: relative;
     right: 25px;
 }
+
+a { display: block }
 
 .title {
     text-shadow: 0 0 10px DodgerBlue;

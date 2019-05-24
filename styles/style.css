@@ -28,6 +28,7 @@ li {
 
 .table {
     width: 50%;
+    min-width: 500px
     margin: auto;  
 }
 

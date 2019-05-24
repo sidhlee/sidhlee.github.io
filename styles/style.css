@@ -25,3 +25,13 @@ li {
 .title {
     text-shadow: 0 0 10px DodgerBlue;
 }
+
+.table {
+    width: 500px;
+    margin: auto;
+}
+
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}

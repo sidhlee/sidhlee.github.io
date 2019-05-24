@@ -1,56 +1,9 @@
 body {
     font-family: monospace;
-    text-align: center;
-    line-height: 1.25em;
+   
 }
 
-#main {
-    display: block;
-    margin: auto;
-    max-width: 50vw;
-}
 
-ul {
-    text-decoration: none;
-    list-style: none;
-    margin-left:0;
-    text-align: center;
-}
-
-li {
-    display: block;
-    position: relative;
-    right: 25px;
-}
-
-a { display: block }
-
-.title {
-    text-shadow: 0 0 10px DodgerBlue;
-}
-
-.table {
-    width: 50%;
-    min-width: 400px
-    margin: auto;  
-}
-
-@media (min-width: 1000px) {
-    .table { width: 500px; margin: auto; }
-}
-
-@media (max-width: 500px) {
-    .table { width: 85%; }
-}
-
-table { width: 100%; }
-
-table, th, td {
-    text-align: center;
-    border: 1px solid black;
-    border-collapse: collapse;
-    padding: 10px;
-}
 
 
 td { line-height: 1.25; }

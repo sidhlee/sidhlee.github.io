@@ -29,14 +29,18 @@ li {
 .table {
     width: 50%;
     margin: auto;
-    text-align: center;
+    
 }
 
+table { width: 100%; }
+
 table, th, td {
+    text-align: center;
     border: 1px solid black;
     border-collapse: collapse;
     padding: 10px;
 }
+
 
 td { line-height: 1.25; }
     
